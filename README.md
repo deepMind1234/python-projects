@@ -1,2 +1,2 @@
 # python-projects
-A coalition of python projects that I have done or am doing :)
+A colaition of python projects that I have done or am doing :)
